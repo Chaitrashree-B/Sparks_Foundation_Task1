@@ -7,15 +7,15 @@
 - Screenshort
 
 ## Description
-- This a Internship project by Sparks Foundation.
+- This is an Internship project by Sparks Foundation.
 - This project is built on HTML/CSS, Bootstrap, PHP and MySQL.
 - Details of Customers are maintained as `Name`, `Email`, `Amount` are fields.
 - Transaction is done through PDO, If some Error occured while Transaction changes made to table is Rollback(Reverted).  
 
 ## First Time Installation
 - Clone the Repository.
-- Make sure you have installed XAMP on your computer.
-- Copy this folder(Sparks-Foundation) to XAMP installation Directory and then inside htdocs folder.
+- Make sure you have installed XAMPP on your system.
+- Copy this folder(Sparks-Foundation) to XAMPP installation Directory and then inside htdocs folder.
 
 ```
 For Example
